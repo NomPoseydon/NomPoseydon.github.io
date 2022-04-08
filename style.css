@@ -30,6 +30,6 @@ h1, h2, h3, h4, h5, h6{
     width: 100%;
     height: 100vh;
     background: url("../images/fon.jpg") center no-repeaet;
-    -webkit-background-size: covert;
+    background-size: covert;
     background-size: cover;
 }
