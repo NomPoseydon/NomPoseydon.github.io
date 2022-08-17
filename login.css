@@ -98,12 +98,12 @@ body {
 }
 
 .input-form {
-	margin: 15px 40px;
+	margin: 25px 45px;
 	text-align: center;
 }
 
 .input-form input {
-	padding: 10px;
+	padding: 15px;
 	width: 100%;
 	color: #fff;
 	font-size: 20px;
@@ -118,7 +118,7 @@ body {
 }
 
 .input-form input[type="submit"] {
-	margin-top: 20px;
+	margin-top: 25px;
 	color: #fff;
 	font-weight: bold;
 	text-transform: uppercase;
